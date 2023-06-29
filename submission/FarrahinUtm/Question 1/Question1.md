@@ -101,6 +101,8 @@ DATABASES = {
 ## Question 1 (b)
 Design a detailed and comprehensive system architecture. Focusing on the seamless integration between the web server (Django), dataset (JSON), and databases (MySQL and MongoDB). Give detailed explanations for each component, utilizing precise terminology and suggesting acceptable terms to describe your understanding of the scenario.
 
+![Blank diagram (4)](https://github.com/drshahizan/SECP3843/assets/121208097/cd9b69b5-d7b0-484a-b6a0-cfc70669a357)
+
 We will concentrate on achieving seamless integration between the web server, dataset, and databases in the system architecture. Django will act as the web server in this architecture, and MySQL and MongoDB will function as the databases. The dataset will be in JSON format. Here is a thorough breakdown of each element:
 
 1.Django-based web server
